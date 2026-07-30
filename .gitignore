@@ -28,3 +28,5 @@ tools/weixin-local-assistant/config.txt
 *.ts.net.crt
 *.ts.net.key
 /public/models/world-builder/
+.vercel
+.DS_Store
